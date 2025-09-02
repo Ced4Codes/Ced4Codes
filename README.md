@@ -1,15 +1,7 @@
-# 💫 About Me:
+#  About Me:
 Turning Concept into Impact  
 I’m diving deep into **DevOps** and **Cloud Computing**, while also building on my background in **Frontend Development** and **UI/UX Design**.  
 This is where I share projects, experiments, and my journey as I grow in tech.  
-
----
-
-# 📊 GitHub Stats:
-<p align="center" style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ced4Codes&theme=tokyonight&hide_border=false" height="160px"/>
-</p>
 
 ---
 
