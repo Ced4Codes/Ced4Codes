@@ -7,7 +7,7 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&layout=compact" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&layout=compact" height="260px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ced4Codes&theme=tokyonight&hide_border=false" height="160px"/>
 </p>
 
