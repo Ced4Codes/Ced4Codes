@@ -7,12 +7,12 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ced4Codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ced4Codes&theme=tokyonight&hide_border=false&count_private=true&hide=commits" height="160px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ced4Codes&theme=tokyonight&hide_border=false" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
 </p>
 
 ---
@@ -36,7 +36,5 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ced4Codes&icon=0&color=6" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
