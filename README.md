@@ -7,6 +7,7 @@ Turning Concept into Impact I’m diving deep into DevOps and loud Computing, wh
   <a href="https://linkedin.com/in/paclicedric" target="_blank" style="color:#BD93F9; font-weight:bold; text-decoration:none;">
     LinkedIn
   </a>
+   ☑️
 </p>
 <h3 align="left">💻 Tech Stack</h3>
 <p align="center" style="white-space:nowrap; overflow-x:auto;">
