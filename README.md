@@ -1,7 +1,4 @@
 ## About Me:
-<p align="center">
-  <img src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" width="300"/>
-</p>
 
 **`Devops | Cloud | Frontend`**
 
