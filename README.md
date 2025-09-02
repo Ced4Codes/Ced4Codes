@@ -15,8 +15,7 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 ---
 
 # 💻 Tech Stack:
-<<p align="center">
-  <!-- First row -->
+<p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" />
@@ -26,11 +25,6 @@ This is where I share projects, experiments, and my journey as I grow in tech.
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="50" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" />
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="50" />
-</p>
-
-<p align="center">
-  <!-- Second row -->
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="50" />
   <img src="https://cdn.simpleicons.org/express/000000" height="50" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" />
@@ -41,7 +35,6 @@ This is where I share projects, experiments, and my journey as I grow in tech.
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="50" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="50" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50" />
 </p>
+
 
