@@ -1,5 +1,5 @@
-## About Me:
-**Devops|Cloud|Frontend**
+# About Me:
+**`Devops|Cloud|Frontend`**
 Turning Concept into Impact I’m diving deep into **DevOps** and **Cloud Computing**, while also building on my background in **Frontend Development** and **UI/UX Design**. This is where I share projects, experiments, and my journey as I grow in tech. 
 ## <h2>🌐 Connect with Me:</h2>
 <p align="left"> <a href="https://linkedin.com/in/paclicedric" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> </a> </p>
