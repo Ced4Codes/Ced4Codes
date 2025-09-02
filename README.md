@@ -15,7 +15,6 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 ---
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" />
   <img src="https://skillicons.dev/icons?i=css" height="40" />
@@ -30,7 +29,6 @@ This is where I share projects, experiments, and my journey as I grow in tech.
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
   <img src="https://skillicons.dev/icons?i=apache" height="40" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
