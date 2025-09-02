@@ -1,8 +1,8 @@
-## <h1>About Me:</h1>
+## About Me:
 Turning Concept into Impact I’m diving deep into **DevOps** and **Cloud Computing**, while also building on my background in **Frontend Development** and **UI/UX Design**. This is where I share projects, experiments, and my journey as I grow in tech. 
-🌐 <h2>Connect with Me:</h2>
+## <h2>🌐 Connect with Me:</h2>
 <p align="left"> <a href="https://linkedin.com/in/paclicedric" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="20"/> </a> </p>
-💻 <h2>Tech Stack:</h2>
+## <h2>💻Tech Stack:</h2>
 <p align="center" style="white-space:nowrap; overflow-x:auto;">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" style="margin:0 12px; vertical-align:middle;" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" style="margin:0 12px; vertical-align:middle;" /> 
