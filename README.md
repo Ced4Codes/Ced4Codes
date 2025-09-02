@@ -25,6 +25,7 @@ This is where I share projects, experiments, and my journey as I grow in tech.
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="50" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" />
   <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="50" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" />
   <img src="https://cdn.simpleicons.org/express/000000" height="50" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" />
