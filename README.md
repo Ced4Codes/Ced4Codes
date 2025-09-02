@@ -1,7 +1,7 @@
 ## About Me:
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFmcDhmODVmamlsM2drMnYxaGcyNnNuaXFqZnB4dHZjN2RnbnVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy.gif" width="300" align="center"/>
-**`Devops | Cloud | Frontend`**
 
+**`Devops | Cloud | Frontend`**
 Turning Concept into Impact I’m diving deep into DevOps and loud Computing, while also building on my background in Frontend Developmen and UI/UX Design. This is where I share projects, experiments, and my journey as I grow in tech. 
 <p align="left">
    You can find me on
