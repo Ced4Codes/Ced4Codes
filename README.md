@@ -6,16 +6,10 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 ---
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
-    </td>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Ced4Codes&theme=tokyonight&hide_border=false" height="160px"/>
-    </td>
-  </tr>
-</table>
+<p align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ced4Codes&theme=tokyonight&hide_border=false&layout=compact" height="160px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ced4Codes&theme=tokyonight&hide_border=false" height="160px"/>
+</p>
 
 ---
 
