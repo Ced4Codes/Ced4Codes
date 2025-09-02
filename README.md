@@ -15,27 +15,28 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 ---
 
 # 💻 Tech Stack:
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="50" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="50" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="50" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="50" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="50" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="50" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="50" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="50" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" />
+<p align="center" style="white-space:nowrap; overflow-x:auto;">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/bash/4EAA25" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/linux/000000" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" style="margin:0 12px; vertical-align:middle;" />
 </p>
+
 
 
