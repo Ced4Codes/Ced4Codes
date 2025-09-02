@@ -1,4 +1,5 @@
-# About Me: Turning Concept into Impact I’m diving deep into **DevOps** and **Cloud Computing**, while also building on my background in **Frontend Development** and **UI/UX Design**. This is where I share projects, experiments, and my journey as I grow in tech. 
+## About Me: 
+Turning Concept into Impact I’m diving deep into **DevOps** and **Cloud Computing**, while also building on my background in **Frontend Development** and **UI/UX Design**. This is where I share projects, experiments, and my journey as I grow in tech. 
 ## 🌐 Connect with Me: <p align="left"> <a href="https://linkedin.com/in/paclicedric" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> </p>
 ## 💻 Tech Stack:
 <p align="center" style="white-space:nowrap; overflow-x:auto;">
