@@ -16,5 +16,16 @@ This is where I share projects, experiments, and my journey as I grow in tech.
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,apache,mysql,mongodb,postgres,arduino,postman,notion,powerbi" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=apache" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" style="margin:10px;" />
+</p>
+
 </p>
