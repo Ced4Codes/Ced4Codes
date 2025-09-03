@@ -1,5 +1,5 @@
 ## About Me:
-![Me](assets/9070324cdfc07c68d60eed0c39e77573.gif)
+![Me](Assets/9070324cdfc07c68d60eed0c39e77573.gif)
 *Credit: [Dy Castella on Pinterest](https://www.pinterest.com/dycastella/)*
 
 **`Devops | Cloud | Frontend`**
