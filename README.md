@@ -4,7 +4,8 @@
 
 **`Devops | Cloud | Frontend`**
 
-Turning Concept into Impact I’m diving deep into DevOps and loud Computing, while also building on my background in Frontend Developmen and UI/UX Design. This is where I share projects, experiments, and my journey as I grow in tech. 
+<h3>Turning Concept into Impact</h3>
+I’m diving deep into DevOps and loud Computing, while also building on my background in Frontend Developmen and UI/UX Design. This is where I share projects, experiments, and my journey as I grow in tech. 
 <p align="left">
    You can find me on
   <a href="https://linkedin.com/in/paclicedric" target="_blank" style="color:#BD93F9; font-weight:bold; text-decoration:none;">
