@@ -24,7 +24,6 @@ I’m diving deep into DevOps and Cloud Computing, while also building on my bac
   <img src="https://cdn.simpleicons.org/linux/000000" height="40" style="margin:0 12px; vertical-align:middle;" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" style="margin:0 12px; vertical-align:middle;" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" style="margin:0 12px; vertical-align:middle;" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" style="margin:0 12px; vertical-align:middle;" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" style="margin:0 12px; vertical-align:middle;" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" style="margin:0 12px; vertical-align:middle;" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" style="margin:0 12px; vertical-align:middle;" />
