@@ -10,8 +10,6 @@
 
 Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
----
-
 ## Tech Stack
 
 ### Specialized:
@@ -36,8 +34,6 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="Terraform" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="GitHub Actions" style="margin-right: 10px;"/>
 </p>
-
----
 
 ## Certifications and Achievements
 
