@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/assets/background.gif" alt="background" width="100%" />
+<img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/background.gif" alt="background" width="100%" />
 <sub>*Credit: [Dy Castella on Pinterest](https://www.pinterest.com/dycastella/)*</sub>
 
 # Ced4Codes
