@@ -19,7 +19,7 @@ Docker | Linux | Python | SQL | AWS | Bash
 
 HTML | CSS | Javascript | Tailwind CSS | React | Terraform | Github Actions
 
-## Certifications:
+## Certifications and Achievements:
 
 <a href="https://www.credly.com/badges/dbf45b70-9d42-4f33-9fac-2b03bb54add4/public_url">
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/aws-re-start-graduate.png" alt="AWS re/Start Graduate" width="150"/>
