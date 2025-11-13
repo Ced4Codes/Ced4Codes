@@ -21,7 +21,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="SQL" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/amazondynamodb/FF9900" height="40" alt="AWS" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" style="margin-right: 10px;"/>
 </p>
 
@@ -29,7 +29,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" style="margin-right: 10px;"/>
@@ -50,8 +50,8 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ced4Codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ced4Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ced4Codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ced4Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
