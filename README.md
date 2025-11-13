@@ -12,7 +12,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Specialized:
 
@@ -21,7 +21,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="SQL" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" style="margin-right: 10px;"/>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="AWS" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" style="margin-right: 10px;"/>
 </p>
 
@@ -39,7 +39,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
 ---
 
-## 🏆 Certifications and Achievements
+## Certifications and Achievements
 
 <a href="https://www.credly.com/badges/dbf45b70-9d42-4f33-9fac-2b03bb54add4/public_url">
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/aws-re-start-graduate.png" alt="AWS re/Start Graduate" width="150"/>
@@ -47,15 +47,12 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<div align="center">
-
-![Cedric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ced4Codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ced4Codes&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ced4Codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ced4Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
 
 ---
 
