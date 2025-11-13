@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/background.gif" alt="background" width="100%" />
-<sub>*Credit: [Dy Castella](https://www.pinterest.com/dycastella/) on Pinterest*</sub>
+<sub><em>Credit: <a href="https://www.pinterest.com/dycastella/">Dy Castella</a> on Pinterest</em></sub>
 
 # Ced4Codes
 
