@@ -1,4 +1,4 @@
-![background.gif](./assets/background.gif)
+<img src="assets/background.gif" alt="background" />
 <sub>*Credit: [Dy Castella on Pinterest](https://www.pinterest.com/dycastella/)*</sub>
 
 # Ced4Codes
