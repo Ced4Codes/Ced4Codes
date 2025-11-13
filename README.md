@@ -21,7 +21,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="SQL" style="margin-right: 10px;"/>
-  <img src="https://cdn.simpleicons.org/amazondynamodb/FF9900" height="40" alt="AWS" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" style="margin-right: 10px;"/>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" style="margin-right: 10px;"/>
 </p>
 
