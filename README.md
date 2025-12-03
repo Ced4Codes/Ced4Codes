@@ -38,7 +38,10 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 ## Certifications and Achievements
 
 <a href="https://www.credly.com/badges/dbf45b70-9d42-4f33-9fac-2b03bb54add4/public_url">
-  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/aws-re-start-graduate.png" alt="AWS re/Start Graduate" width="150"/>
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/AWS_Graduate.png" alt="AWS re/Start Graduate" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/3fc5e83b-244d-4cd2-93c9-220cfd15e271/public_url">
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS re/Start Graduate" width="150"/>
 </a>
 
 ---
