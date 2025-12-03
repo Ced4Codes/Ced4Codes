@@ -41,7 +41,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/AWS_Graduate.png" alt="AWS re/Start Graduate" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/3fc5e83b-244d-4cd2-93c9-220cfd15e271/public_url">
-  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS re/Start Graduate" width="150"/>
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner (CCP) Badge" width="150"/>
 </a>
 
 ---
