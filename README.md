@@ -2,7 +2,7 @@
 
 <sub><em>Credit: <a href="https://www.pinterest.com/dycastella/">Dy Castella</a> on Pinterest</em></sub>
 
-# Ced4Codes
+# CedsCode
 
 **`DevOps` `Data` `Cloud`**
 
