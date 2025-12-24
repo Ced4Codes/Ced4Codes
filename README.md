@@ -43,6 +43,9 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 <a href="https://www.credly.com/badges/3fc5e83b-244d-4cd2-93c9-220cfd15e271/public_url">
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner (CCP) Badge" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/47ef8fbe-6ee0-43f4-8ede-14351d65c86f/public_url">
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/LFS101.png" alt="Linux Foundation: Introduction to Linux Badge" width="150"/>
+</a>
 
 ---
 
