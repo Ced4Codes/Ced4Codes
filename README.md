@@ -37,6 +37,13 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
 ## Certifications and Achievements
 
+<style>
+.certificates a {
+  text-decoration: none;
+}
+</style>
+
+<div class="certificates">
 <a href="https://www.credly.com/badges/dbf45b70-9d42-4f33-9fac-2b03bb54add4/public_url">
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/AWS_Graduate.png" alt="AWS re/Start Graduate" width="150"/>
 </a>
@@ -46,6 +53,7 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 <a href="https://www.credly.com/badges/47ef8fbe-6ee0-43f4-8ede-14351d65c86f/public_url">
   <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/LFS101.png" alt="Linux Foundation: Introduction to Linux Badge" width="150"/>
 </a>
+</div>
 
 ---
 
