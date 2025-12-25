@@ -37,9 +37,11 @@ Contact: [LinkedIn](https://linkedin.com/in/paclicedric) ☑️
 
 ## Certifications and Achievements
 
-<img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/AWS_Graduate.png" alt="AWS re/Start Graduate" width="150"/>
-<img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner (CCP) Badge" width="150"/>
-<img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/LFS101.png" alt="Linux Foundation: Introduction to Linux Badge" width="150"/>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(105px, 1fr)); gap: 20px; max-width: 400px;">
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/AWS_Graduate.png" alt="AWS re/Start Graduate" width="105"/>
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/Cloud_Practitioner.png" alt="AWS Certified Cloud Practitioner (CCP) Badge" width="105"/>
+  <img src="https://raw.githubusercontent.com/Ced4Codes/Ced4Codes/main/Assets/LFS101.png" alt="Linux Foundation: Introduction to Linux Badge" width="105"/>
+</div>
 
 ---
 
